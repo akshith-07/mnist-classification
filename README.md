@@ -84,19 +84,23 @@ np.argmax(model.predict(img_28_gray_scaled.reshape(1,28,28,1)),axis=1)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+### ACCURACY VS VAL_ACCURACY
+![image](https://user-images.githubusercontent.com/75235488/189907130-3c5f18c6-e092-463b-a520-3e3fa0a2859c.png)
 
-Include your plot here
+
+### TRAINING_LOSS VS VAL_LOSS
+![image](https://user-images.githubusercontent.com/75235488/189906885-b7baf893-874f-464d-9961-0d84304e54c3.png)
 
 ### Classification Report
 
-Include Classification Report here
+![image](https://user-images.githubusercontent.com/75235488/189907255-1bf07e4b-645d-4643-b9f8-a910dc2ea19b.png)
 
 ### Confusion Matrix
-
-Include confusion matrix here
+![image](https://user-images.githubusercontent.com/75235488/189907192-8b5c23c9-27c1-40d3-8499-7bd8091f3c76.png)
 
 ### New Sample Data Prediction
 
-Include your sample input and output for your hand written images.
+![image](https://user-images.githubusercontent.com/75235488/189907327-69384ddd-16ed-4ba2-95c1-6e99e6dbaf63.png)
 
 ## RESULT
+A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
