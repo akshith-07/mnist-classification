@@ -2,7 +2,7 @@
 
 ## AIM
 
-To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
+Too Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
 ## Problem Statement and Dataset
 Digit classification and to verify the response for scanned handwritten images.
